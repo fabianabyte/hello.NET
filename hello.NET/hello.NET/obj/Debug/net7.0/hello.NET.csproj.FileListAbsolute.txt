@@ -1,0 +1,15 @@
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/bin/Debug/net7.0/hello.NET
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/bin/Debug/net7.0/hello.NET.deps.json
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/bin/Debug/net7.0/hello.NET.runtimeconfig.json
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/bin/Debug/net7.0/hello.NET.dll
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/bin/Debug/net7.0/hello.NET.pdb
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.csproj.AssemblyReference.cache
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.AssemblyInfoInputs.cache
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.AssemblyInfo.cs
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.csproj.CoreCompileInputs.cache
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.dll
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/refint/hello.NET.dll
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.pdb
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/hello.NET.genruntimeconfig.cache
+/Users/fabianaalencar/Projects/hello.NET/hello.NET/hello.NET/obj/Debug/net7.0/ref/hello.NET.dll
